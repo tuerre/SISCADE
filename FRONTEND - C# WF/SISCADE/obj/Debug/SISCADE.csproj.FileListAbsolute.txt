@@ -1,0 +1,11 @@
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\bin\Debug\SISCADE.exe.config
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\bin\Debug\SISCADE.exe
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\bin\Debug\SISCADE.pdb
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.csproj.AssemblyReference.cache
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.Forms.FrmCliente.resources
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.Properties.Resources.resources
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.csproj.GenerateResource.cache
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.csproj.CoreCompileInputs.cache
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.exe
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.pdb
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.FrmPrincipal.resources
