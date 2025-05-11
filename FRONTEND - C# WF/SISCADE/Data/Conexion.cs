@@ -5,12 +5,12 @@ namespace SISCADE.Data
 {
     public class Conexion
     {
-        private static string connectionString = "Data Source=SLIMREAPER;Initial Catalog=SISCADE;User ID=sa;Password=GodIsGood072330";
 
         public static SqlConnection ObtenerConexion()
         {
-            SqlConnection conexion = new SqlConnection(connectionString);
+            SqlConnection conexion = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;User ID=sa;Initial Catalog=SISCADE;Data Source=SlimReaper");
             conexion.Open();
+
             return conexion;
         }
     }

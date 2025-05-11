@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|c:\\users\\ronny\\onedrive\\documents\\jendry\\siscade - proyecto completo\\frontend - c# wf\\siscade\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|c:\\users\\ronny\\onedrive\\documents\\jendry\\siscade - proyecto completo\\frontend - c# wf\\siscade\\forms\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\forms\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:forms\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\frmtransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:frmtransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\forms\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:forms\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\frmtransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:frmtransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\forms\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:forms\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\frmtransaccion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:frmtransaccion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\transacciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:transacciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE0D1C73-0424-482A-A3A2-037CD7E411C7}|SISCADE.csproj|C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -37,11 +65,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "FrmTransaccion.cs",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmTransaccion.cs",
+              "RelativeDocumentMoniker": "FrmTransaccion.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmTransaccion.cs",
+              "RelativeToolTip": "FrmTransaccion.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwKIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:14:54.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTransaccion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmTransaccion.Designer.cs",
+              "RelativeDocumentMoniker": "FrmTransaccion.Designer.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmTransaccion.Designer.cs",
+              "RelativeToolTip": "FrmTransaccion.Designer.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAowAcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:11:43.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTransaccion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmTransaccion.cs",
+              "RelativeDocumentMoniker": "FrmTransaccion.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmTransaccion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmTransaccion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:05:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransaccionDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\TransaccionDAL.cs",
+              "RelativeDocumentMoniker": "TransaccionDAL.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\TransaccionDAL.cs",
+              "RelativeToolTip": "TransaccionDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:03:01.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Transaccion.cs",
+              "RelativeDocumentMoniker": "Transaccion.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Transaccion.cs",
+              "RelativeToolTip": "Transaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:01:22.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\ClienteDAL.cs",
+              "RelativeToolTip": "ClienteDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:22:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:11:25.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SISCADE",
               "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\SISCADE.csproj",
               "RelativeDocumentMoniker": "SISCADE.csproj",
@@ -52,19 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "FrmPrincipal.cs",
               "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmPrincipal.cs",
               "RelativeToolTip": "FrmPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T20:08:24.612Z"
+              "WhenOpened": "2025-05-04T20:08:24.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -76,27 +188,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FrmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "FrmPrincipal.cs",
               "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\FrmPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:28:28.454Z"
+              "WhenOpened": "2025-05-04T19:28:28.454Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmCliente.cs",
               "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Forms\\FrmCliente.cs",
               "RelativeDocumentMoniker": "Forms\\FrmCliente.cs",
               "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Forms\\FrmCliente.cs",
               "RelativeToolTip": "Forms\\FrmCliente.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:42:10.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T19:42:10.584Z"
             },
             {
               "$type": "Document",
@@ -111,13 +223,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Data\\Conexion.cs",
               "RelativeDocumentMoniker": "Data\\Conexion.cs",
               "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\Jendry\\SISCADE - PROYECTO COMPLETO\\FRONTEND - C# WF\\SISCADE\\Data\\Conexion.cs",
               "RelativeToolTip": "Data\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T19:30:00.903Z",
               "EditorCaption": ""

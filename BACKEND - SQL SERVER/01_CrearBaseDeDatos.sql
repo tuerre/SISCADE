@@ -21,7 +21,7 @@ CREATE TABLE Empleado (
     Usuario NVARCHAR(50) UNIQUE NOT NULL,
     Contrasena NVARCHAR(255) NOT NULL,
     Rol NVARCHAR(20) NOT NULL,
-    Estado BIT DEFAULT 1,
+    Estado BIT DEFA		ULT 1,
     FechaCreacion DATETIME DEFAULT GETDATE(),
     UltimoInicioSesion DATETIME
 );
@@ -54,3 +54,4 @@ CREATE TABLE Transaccion (
     FormaPago NVARCHAR(50) NOT NULL,
     Observaciones NVARCHAR(255)
 );
+

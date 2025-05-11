@@ -25,30 +25,29 @@ namespace SISCADE.Forms
 
             try
             {
-                using (SqlConnection con = Conexion.ObtenerConexion())
+                Cliente cliente = new Cliente();
+                cliente.NombreCompleto = txtNombre.Text;
+                cliente.DocumentoTipo = txtDocumentoTipo.Text;
+                cliente.DocumentoNumero = txtDocumentoNumero.Text;
+                cliente.Nacionalidad = txtNacionalidad.Text;
+                cliente.Direccion = txtDireccion.Text;
+                cliente.Telefono = txtTelefono.Text;
+                cliente.Correo = txtCorreo.Text;
+                cliente.Ocupacion = txtOcupacion.Text;
+                cliente.FuenteFondos = txtFuenteFondos.Text;
+                int result = ClienteDAL.AgregarCliente(cliente);
+
+                if (result > 0)
                 {
-                    string query = "INSERT INTO Cliente (NombreCompleto, DocumentoTipo, DocumentoNumero, Nacionalidad, Direccion, Telefono, Correo, Ocupacion, FuenteFondos) " +
-                                   "VALUES (@nombre, @tipo, @numero, @nacionalidad, @direccion, @telefono, @correo, @ocupacion, @fuente)";
-
-                    using (SqlCommand cmd = new SqlCommand(query, con))
-                    {
-                        cmd.Parameters.AddWithValue("@nombre", txtNombre.Text);
-                        cmd.Parameters.AddWithValue("@tipo", txtDocumentoTipo.Text);
-                        cmd.Parameters.AddWithValue("@numero", txtDocumentoNumero.Text);
-                        cmd.Parameters.AddWithValue("@nacionalidad", txtNacionalidad.Text);
-                        cmd.Parameters.AddWithValue("@direccion", txtDireccion.Text);
-                        cmd.Parameters.AddWithValue("@telefono", txtTelefono.Text);
-                        cmd.Parameters.AddWithValue("@correo", txtCorreo.Text);
-                        cmd.Parameters.AddWithValue("@ocupacion", txtOcupacion.Text);
-                        cmd.Parameters.AddWithValue("@fuente", txtFuenteFondos.Text);
-
-                        cmd.ExecuteNonQuery();
-                        MessageBox.Show("Cliente registrado correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        LimpiarCampos();
-                    }
+                    MessageBox.Show("Cliente registrado exitosamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    LimpiarCampos();
+                }
+                else
+                {
+                    MessageBox.Show("Cliente no registrado.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            catch (Exception ex)
+                catch (Exception ex)
             {
                 MessageBox.Show("Error al registrar el cliente: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -56,7 +55,7 @@ namespace SISCADE.Forms
 
         private void FrmCliente_Load(object sender, EventArgs e)
         {
-            this.BackColor = ColorTranslator.FromHtml("#228B22");
+            this.BackColor = ColorTranslator.FromHtml("#0D0E12");
 
         }
 
@@ -71,6 +70,16 @@ namespace SISCADE.Forms
             txtCorreo.Clear();
             txtOcupacion.Clear();
             txtFuenteFondos.Clear();
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

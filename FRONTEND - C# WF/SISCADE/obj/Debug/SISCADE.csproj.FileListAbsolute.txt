@@ -9,3 +9,4 @@ C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - 
 C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.exe
 C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.pdb
 C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.FrmPrincipal.resources
+C:\Users\ronny\OneDrive\Documents\Jendry\SISCADE - PROYECTO COMPLETO\FRONTEND - C# WF\SISCADE\obj\Debug\SISCADE.FrmTransaccion.resources

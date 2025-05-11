@@ -49,6 +49,7 @@
             this.txtDireccion = new System.Windows.Forms.TextBox();
             this.txtOcupacion = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
+            this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -146,83 +147,76 @@
             this.btnRegistrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.btnRegistrar.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegistrar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnRegistrar.Location = new System.Drawing.Point(104, 367);
+            this.btnRegistrar.Location = new System.Drawing.Point(120, 379);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(127, 28);
             this.btnRegistrar.TabIndex = 9;
             this.btnRegistrar.Text = "Registrar Cliente";
             this.btnRegistrar.UseVisualStyleBackColor = false;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(189, 96);
-            this.txtNombre.Multiline = true;
+            this.txtNombre.Location = new System.Drawing.Point(189, 91);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(104, 17);
+            this.txtNombre.Size = new System.Drawing.Size(181, 27);
             this.txtNombre.TabIndex = 10;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // txtDocumentoTipo
             // 
-            this.txtDocumentoTipo.Location = new System.Drawing.Point(189, 126);
-            this.txtDocumentoTipo.Multiline = true;
+            this.txtDocumentoTipo.Location = new System.Drawing.Point(189, 123);
             this.txtDocumentoTipo.Name = "txtDocumentoTipo";
-            this.txtDocumentoTipo.Size = new System.Drawing.Size(104, 17);
+            this.txtDocumentoTipo.Size = new System.Drawing.Size(181, 27);
             this.txtDocumentoTipo.TabIndex = 11;
             // 
             // txtDocumentoNumero
             // 
-            this.txtDocumentoNumero.Location = new System.Drawing.Point(189, 155);
-            this.txtDocumentoNumero.Multiline = true;
+            this.txtDocumentoNumero.Location = new System.Drawing.Point(189, 154);
             this.txtDocumentoNumero.Name = "txtDocumentoNumero";
-            this.txtDocumentoNumero.Size = new System.Drawing.Size(104, 17);
+            this.txtDocumentoNumero.Size = new System.Drawing.Size(181, 27);
             this.txtDocumentoNumero.TabIndex = 12;
             // 
             // txtNacionalidad
             // 
-            this.txtNacionalidad.Location = new System.Drawing.Point(189, 185);
-            this.txtNacionalidad.Multiline = true;
+            this.txtNacionalidad.Location = new System.Drawing.Point(189, 184);
             this.txtNacionalidad.Name = "txtNacionalidad";
-            this.txtNacionalidad.Size = new System.Drawing.Size(104, 17);
+            this.txtNacionalidad.Size = new System.Drawing.Size(181, 27);
             this.txtNacionalidad.TabIndex = 13;
             // 
             // txtFuenteFondos
             // 
-            this.txtFuenteFondos.Location = new System.Drawing.Point(189, 332);
-            this.txtFuenteFondos.Multiline = true;
+            this.txtFuenteFondos.Location = new System.Drawing.Point(189, 334);
             this.txtFuenteFondos.Name = "txtFuenteFondos";
-            this.txtFuenteFondos.Size = new System.Drawing.Size(104, 17);
+            this.txtFuenteFondos.Size = new System.Drawing.Size(181, 27);
             this.txtFuenteFondos.TabIndex = 17;
             // 
             // txtCorreo
             // 
-            this.txtCorreo.Location = new System.Drawing.Point(189, 273);
-            this.txtCorreo.Multiline = true;
+            this.txtCorreo.Location = new System.Drawing.Point(189, 274);
             this.txtCorreo.Name = "txtCorreo";
-            this.txtCorreo.Size = new System.Drawing.Size(104, 17);
+            this.txtCorreo.Size = new System.Drawing.Size(181, 27);
             this.txtCorreo.TabIndex = 16;
             // 
             // txtTelefono
             // 
             this.txtTelefono.Location = new System.Drawing.Point(189, 244);
-            this.txtTelefono.Multiline = true;
             this.txtTelefono.Name = "txtTelefono";
-            this.txtTelefono.Size = new System.Drawing.Size(104, 17);
+            this.txtTelefono.Size = new System.Drawing.Size(181, 27);
             this.txtTelefono.TabIndex = 15;
             // 
             // txtDireccion
             // 
             this.txtDireccion.Location = new System.Drawing.Point(189, 214);
-            this.txtDireccion.Multiline = true;
             this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(104, 17);
+            this.txtDireccion.Size = new System.Drawing.Size(181, 27);
             this.txtDireccion.TabIndex = 14;
             // 
             // txtOcupacion
             // 
-            this.txtOcupacion.Location = new System.Drawing.Point(189, 303);
-            this.txtOcupacion.Multiline = true;
+            this.txtOcupacion.Location = new System.Drawing.Point(189, 304);
             this.txtOcupacion.Name = "txtOcupacion";
-            this.txtOcupacion.Size = new System.Drawing.Size(104, 17);
+            this.txtOcupacion.Size = new System.Drawing.Size(181, 27);
             this.txtOcupacion.TabIndex = 19;
             // 
             // label10
@@ -235,11 +229,25 @@
             this.label10.TabIndex = 18;
             this.label10.Text = "Ocupación";
             // 
+            // btnClose
+            // 
+            this.btnClose.BackColor = System.Drawing.Color.IndianRed;
+            this.btnClose.Font = new System.Drawing.Font("Microsoft Tai Le", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClose.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnClose.Location = new System.Drawing.Point(272, 379);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(98, 30);
+            this.btnClose.TabIndex = 20;
+            this.btnClose.Text = "Cerrar";
+            this.btnClose.UseVisualStyleBackColor = false;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
             // FrmCliente
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(14)))), ((int)(((byte)(18)))));
-            this.ClientSize = new System.Drawing.Size(359, 431);
+            this.ClientSize = new System.Drawing.Size(406, 431);
+            this.Controls.Add(this.btnClose);
             this.Controls.Add(this.txtOcupacion);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.txtFuenteFondos);
@@ -294,5 +302,6 @@
         private System.Windows.Forms.TextBox txtDireccion;
         private System.Windows.Forms.TextBox txtOcupacion;
         private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Button btnClose;
     }
 }

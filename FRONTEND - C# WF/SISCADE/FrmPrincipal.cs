@@ -23,5 +23,16 @@ namespace SISCADE
             FrmCliente frmCliente = new FrmCliente();
             frmCliente.ShowDialog();
         }
+
+        private void realizarTransaccionFormulario_Btn_Click(object sender, EventArgs e)
+        {
+            FrmTransaccion frmTransaccion = new FrmTransaccion();
+            frmTransaccion.ShowDialog();
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
